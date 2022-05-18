@@ -1,0 +1,10 @@
+E:\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe.config
+E:\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe
+E:\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.pdb
+E:\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csproj.AssemblyReference.cache
+E:\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.Form1.resources
+E:\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.Properties.Resources.resources
+E:\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csproj.GenerateResource.cache
+E:\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csproj.CoreCompileInputs.cache
+E:\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.exe
+E:\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.pdb
